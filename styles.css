@@ -1,0 +1,86 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    font-size: medium;
+
+}
+.center {
+    margin: 1cm auto 1cm;
+    width: 300px;
+    text-align: center;
+  }
+button {
+    padding: 15px;
+    font-size: 24px;
+    margin: 15px;
+    border: 5px solid #333;
+    border-radius: 5px;
+}
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+  .content {
+    position: fixed;
+    bottom: 0;
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+  }
+  #myBtn {
+    width: 200px;
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    background: #000;
+    color: #fff;
+    cursor: pointer;
+  }
+  #myBtn:hover {
+    background: #ddd;
+    color: black;
+  }
+  .header {
+    position: fixed;
+    top: 2;
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+  }
+  .pages {
+    bottom: 0;
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+  }
+  .text {
+    top: 2;
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+  }
+  .links {
+    position: fixed;
+    top: 0;
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+  }
+  #Biobody {
+    background-repeat: no-repeat;
+    background-image: url("jhinn.jpg")
+  }
+  #storybody {
+    background-repeat: no-repeat;
+    background-image: url("jhin6.jpg")
+  }
+  #skillsbody {
+    background-repeat: no-repeat;
+    background-image: url("jhin5.jpg")
+  }
